@@ -5,6 +5,12 @@ The project represents a coffee shop website with a focus on UI, layout and comp
 
 ---
 
+## 🤝 Collaboration
+This project was developed collaboratively with a colleague
+as part of a learning and practice project.
+
+---
+
 ## ✨ Features
 - Single-page application (SPA)
 - Component-based architecture
